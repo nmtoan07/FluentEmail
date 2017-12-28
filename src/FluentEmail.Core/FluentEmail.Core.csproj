@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net462;netcoreapp2.0;netstandard2.0</TargetFrameworks>
+    <RootNamespace>Enterprise.Toolkit.FluentEmail</RootNamespace>
+    <Version>1.0.0</Version>
+    <Copyright>Toan Nguyen</Copyright>
+  </PropertyGroup>
+
+</Project>
